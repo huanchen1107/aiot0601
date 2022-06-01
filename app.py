@@ -104,7 +104,7 @@ def getPredict():
 	#step 2: load model  #讀取Model###
 	import pickle
 	import gzip
-	with gzip.open('./model/myModel.pgz', 'r') as f:
+	with gzip.open('./model/myModel300.pgz', 'r') as f:
 		model = pickle.load(f)
 
 	# step 3:　get test data from database        
