@@ -78,5 +78,5 @@ https://aiot0601.herokuapp.com/
 
 ### Result: (remote after AI prediction)
 
-![remote predict](img%5Cremote_AI.png)
+![remote predict](img/remote_AI.png)
 
