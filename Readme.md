@@ -10,22 +10,16 @@
 * download HeidiSQL, VS code
   
 ### step 1 : Clone this github
-* clone https://github.com/huanchen1107/aiot0529 (initial setup)
-* delete .git 管理者, folder ./aiot0529 下面的資料都搬上一層
-* git remote to new repository aiot0601
-    
+* 把local的 \aiot0531.git 殺掉 (產生自己的git管理員) 方便建立新的git repository
+* 推送至github 建立新的 aiot0531 https://github.com/huanchen1107/aiot0601
+  
+
 
 ### step 2 : install some package
-
+* If you want to test locally, you need to install the following packages. (That is the same thing in the requirements.txt)
 
 ```python
-pip insall gunicorn   
-Flask==2.0.1 
-Jinja2==3.0.1 
-psycopg2 
-sklearn 
-pandas  
-numpy 
+pip install gunicorn  Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 ```
 
 ### step 3: add an heroku postgredb
