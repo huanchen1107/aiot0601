@@ -31,7 +31,11 @@ pip install gunicorn  Flask==2.0.1 Jinja2==3.0.1 psycopg2 sklearn pandas numpy
 
 ### step 4: login to heroku pstgredb using HeidiSQL
 
+#### HeidiSQL setup
+![heidi](/img/heidi.png)
 
+#### Postgredb in Herolu
+![heidi](/img/postgredbOnHeroku.png)
 ```sql
 myserver ="<fill-in-Heroku-Postgredb-DB-sever>"
 myuser="<fill-in-Heroku-Postgredb-DB-user>"
