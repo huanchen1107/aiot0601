@@ -70,9 +70,13 @@ Sample link 1:
 https://awinlab-aiot.herokuapp.com/
 
 Sample link 2: 
-https://aiot0529.herokuapp.com/
+https://aiot0601.herokuapp.com/
 
+### Result: (remote random sensor points)
 
+![remote random](img/remote_random.png)
 
+### Result: (remote after AI prediction)
 
+![remote predict](img%5Cremote_AI.png)
 
