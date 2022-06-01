@@ -55,7 +55,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ### step 7: testing locally by running python app.py
 
 
-![local server success](img%5Clocal_success.png)
+![local server success](img/Clocal_success.png)
 
 ### step 8: deploy to github (new private github repositoy)
 
